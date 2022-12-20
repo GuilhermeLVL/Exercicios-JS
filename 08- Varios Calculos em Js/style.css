@@ -1,6 +1,23 @@
 .divisao{
-    width: auto ;
+   margin: auto;
+    width: 550px ;
     height: 160px;
-    border: rgb(0, 0, 0)  2px solid;
+    box-shadow: white 1px 1px 25px;
+    border: rgb(75, 74, 74)  2px solid;
+    border-radius: 15px;
     text-align: center;
+}
+.calculos{
+    margin-top: 45px;
+display: flex;
+flex-direction: column;
+align-items: center;
+background-color: rgb(58, 58, 58);
+box-shadow: rgb(255, 255, 255) 1px 1px 25px;
+border-radius: 10px;
+}
+body{
+    color: beige
+    ;
+    background-color: black;
 }
